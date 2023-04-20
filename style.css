@@ -57,6 +57,7 @@ body {
   background-color: #5da86f;
   border-radius: 4px;
   transition: 0.6s;
+  padding: 4px 6px;
 }
 .container .func button:hover {
   background-color: #3840b8;
@@ -70,7 +71,6 @@ body {
   border: none;
   background-color: #5da86f;
   border-radius: 4px;
-  color: white;
   padding: 6px 16px;
   margin-top: 12px;
   margin-bottom: 24px;
@@ -78,6 +78,7 @@ body {
   transition: 0.6s;
 }
 .container .login:hover {
+  color: white;
   background-color: #3840b8;
   cursor: pointer;
 }/*# sourceMappingURL=style.css.map */
